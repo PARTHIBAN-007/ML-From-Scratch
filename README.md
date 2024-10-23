@@ -1,7 +1,6 @@
 Machine learning (ML) is a fascinating field within artificial intelligence (AI) that focuses on enabling computers to learn from data and improve their performance over time. Here are the key points about machine learning:
 
 Learning from Data:
-
 ML algorithms learn patterns and relationships from data rather than being explicitly programmed.
 By analyzing examples, ML models generalize and make predictions or decisions.
 
