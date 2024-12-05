@@ -11,25 +11,16 @@ Supervised Learning: The model learns from labeled data (input-output pairs). It
 
 Unsupervised Learning: The model learns from unlabeled data. It discovers patterns, clusters, or structures in the data.
 
-Semi-Supervised Learning: A combination of labeled and unlabeled data.
-
 Reinforcement Learning: The model learns by interacting with an environment and receiving rewards or penalties.
 
-Applications of Machine Learning:
-
-Image Recognition: Identifying objects, faces, or patterns in images.
-
-Natural Language Processing (NLP): Understanding and generating human language.
-
-Recommendation Systems: Personalized recommendations (e.g., Netflix, Amazon).
-
-Predictive Analytics: Forecasting future events (e.g., stock prices, weather).
-
-Healthcare: Diagnosing diseases, drug discovery, personalized medicine.
-
-
-Algorithms and Techniques:
-
-ML uses various algorithms: decision trees, neural networks, support vector machines, k-means clustering, etc.
-
-Feature engineering, model selection, and hyperparameter tuning are essential.
+| Chapter |
+|---------|
+| 1. Linear Regression | 
+| 2. Logistic Regression | 
+| 3. K Nearest Neighbors (KNN) | 
+| 4. Support Vector Machines (SVM) | 
+| 5. Naive Bayes | 
+| 6. Decision Tree | 
+| 7. Random Forest | 
+| 8. Principal Component Analysis (PCA) | 
+| 9. KMeans Clustering | 
