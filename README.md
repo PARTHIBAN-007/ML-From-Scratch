@@ -2,6 +2,7 @@ Machine learning (ML) is a fascinating field within artificial intelligence (AI)
 
 Learning from Data:
 ML algorithms learn patterns and relationships from data rather than being explicitly programmed.
+
 By analyzing examples, ML models generalize and make predictions or decisions.
 
 
